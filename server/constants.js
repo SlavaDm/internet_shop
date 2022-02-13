@@ -1,0 +1,1 @@
+export const COUNT_OF_THE_GOODS_ON_ONE_PAGE = 6;
